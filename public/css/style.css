@@ -98,8 +98,9 @@ code {
 	flex: 0 0 220px;
 	padding: 15px;
 	z-index: 1;
-	background-color: #222;
+	background-color: #ecc6ce;
 	color: #fff;
+	text-align: center;
 }
 
 .sidebar-item {
@@ -109,17 +110,19 @@ code {
 .sidebar ul {
 	list-style-type: none;
 	padding-inline-start: 0px;
+	text-align: center;
 }
 
 .sidebar-brand > a {
-	font-size: 300%;
+	font-size: 200%;
 	font-family: 'Gelasio';
 	color: #fff;
 }
 
 .lead {
-	font-size: 120%;
-	color: #aaa;
+	font-size: 100%;
+	color: #6e6e6e;
+	text-align: center;
 }
 
 .sidebar-header {
@@ -131,18 +134,19 @@ code {
 }
 
 .nav-title {
-	font-size: 100%;
+	font-size: 130%;
 	font-family: "Noto Sans";
 	text-transform: uppercase;
 	border-bottom: 1px solid gray;
 	margin-bottom: 5px;
+	text-align: center;
 }
 
 a.nav-item {
 	font-size: 120%;
 	font-family: "Noto Sans";
 	text-transform: capitalize;
-	color: #aaa;
+	color: #6e6e6e;
 }
 
 a.nav-item:hover { color: #777; }
@@ -233,7 +237,7 @@ article h4,
 article h5,
 article h6 {
 	font-family: "Roboto", "Nanum Gothic";
-	color: #333;
+	color: #787878;
   	margin-bottom: 0;
 }
 
@@ -263,7 +267,7 @@ header.home {
 
 .post-title {
 	font-size: 1.5em;
-	color: #111;
+	color: #5a5a5a;
 	font-weight: bold;
 }
 
