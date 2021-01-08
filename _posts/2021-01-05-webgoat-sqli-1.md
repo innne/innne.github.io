@@ -15,7 +15,7 @@ category: Web_Hacking
 
 <br/>
 
-이 쿼리는 단순히 문자열들을 연결하여 동적 쿼리를 구성하여 String SQL Injection에 취약하다.
+아래의 쿼리는 단순히 문자열들을 연결하여 동적 쿼리를 구성하므로 String SQL Injection에 취약하다.
 
 ```shell
 "select * from users where LAST_NAME = '" + userName + "'";
