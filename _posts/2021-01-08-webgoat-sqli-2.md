@@ -1,11 +1,11 @@
 ---
 layout: post
-title: WebGoat - SQL Injection (1)
-date: 2021-01-05 21:00:00 +0900
+title: WebGoat - SQL Injection (2)
+date: 2021-01-08 18:30:00 +0900
 category: Web_Hacking
 ---
 
-# WebGoat - SQL Injection (1)
+# WebGoat - SQL Injection (2)
 
 #### 입력 폼을 활용하여 "users" 테이블에서 모든 사용자 검색하기
 
