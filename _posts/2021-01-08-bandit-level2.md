@@ -55,7 +55,7 @@ cat ./spaces\ in\ this\ filename
 cat ./"spaces in this filename"
 ```
 
-![bandit3_1](/public/img/bandit3_1.PNG)
+![bandit2_1](/public/img/bandit2_1.PNG)
 
 <br/>
 
