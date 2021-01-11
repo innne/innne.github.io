@@ -25,7 +25,7 @@ category: System_Hacking
 
 <br/>
 
-이전 단계(Level 2)에서  구한 비밀번호를 입력하여 로그인 한다.
+이전 단계(Level 2)에서 구한 비밀번호를 입력하여 로그인 한다.
 
 ```shell
 ssh -p 2220 bandit3@bandit.labs.overthewire.org
