@@ -11,7 +11,7 @@ category: Web_Hacking
 
 <br/>
 
-> SQL Injection 이란 악의적인 SQL 쿼리를 삽입하여 데이터베이스 조회, 삭제, 변조하는 공격이다. 
+> Union SQL Injection이란 2개 이상의 쿼리를 요청하여 결과를 얻는 UNION 연산자를 이용해 데이터베이스를 조작하는 공격이다.
 
 <br/>
 

@@ -11,7 +11,7 @@ category: Web_Hacking
 
 <br/>
 
-> Blind SQL Injection 이란 SQL 쿼리의 참/거짓 결과를 통해 데이터베이스 정보를 파악하는 공격  
+> Blind SQL Injection 이란 SQL 쿼리의 참/거짓 결과를 통해 데이터베이스 정보를 파악하는 공격이다.
 
 <br/>
 
