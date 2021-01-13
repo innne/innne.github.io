@@ -11,7 +11,7 @@ category: Web_Hacking
 
 <br/>
 
-> XXE(XML eXternal Entity) Injection이란 XML이 외부 엔티티를 포함하고  있을 때, 이를 이용하여 기밀 데이터 유출, DoS 등을 유발하는 공격이다.
+> XXE(XML eXternal Entity) Injection이란 XML이 외부 엔티티를 포함하고 있을 때, 이를 이용하여 기밀 데이터 유출, DoS 등을 유발하는 공격이다.
 
 <br/>
 
