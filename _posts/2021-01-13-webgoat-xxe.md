@@ -15,7 +15,7 @@ category: Web_Hacking
 
 <br/>
 
-댓글을 작성한 후 Burp Suite를 통해 보면 Content-Type이 application.xml인 것을 알 수 있고, 이를 통해 body 부분에 XML이 전송된다는 것을 알 수 있다.
+댓글을 작성한 후 Burp Suite를 통해 보면 Content-Type이 application/xml인 것을 알 수 있고, 이를 통해 body 부분이 XML형식으로 전송된다는 것을 알 수 있다.
 
 ![webgoat_xxe1_1](/public/img/webgoat_xxe1_1.PNG)
 
