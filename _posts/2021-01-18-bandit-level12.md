@@ -39,7 +39,7 @@ ls 명령어를 통해 data.txt 파일을 찾을 수 있다.
 ls -al
 ```
 
-![bandit12_1](/public/img/bandit11_1.PNG) 
+![bandit12_1](/public/img/bandit12_1.PNG) 
 
 <br/>
 
