@@ -5,6 +5,6 @@ permalink: /about/
 ---
 
 ## Inhye Park
-> Email: angelainhye@naver.com
+> Email: angelainhye@gmail.com
 >
 > Github: [https://github.com/innne/innne.github.io](https://github.com/innne/innne.github.io)
